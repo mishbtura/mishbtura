@@ -35,11 +35,12 @@ or <a href="mailto:orugamichelleangela@gmail.com"><b>email</b></a> me
 
 
 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔
+
 <a href="https://www.facebook.com/michelleangela.oruga.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  
 <a href="orugamichelleangela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-orugamichelleangela.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orugamichelleangela@gmail.com" alt="Gmail"></a> <br>
 
 
-![VISITOR BADGE](https://visitor-badge.laobi.icu/badge?page_id=mkdirlove)
+![VISITOR BADGE](https://visitor-badge.laobi.icu/badge?page_id=mishbtura)
 </p>
 </details> 
 </div>
