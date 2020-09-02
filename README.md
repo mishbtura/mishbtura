@@ -13,8 +13,8 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/mkdirlove/mkdirlove/issues/new"><b>here</b></a><br>
-or <a href="mailto:sanbuenaventurajayson28@gmail.com"><b>email</b></a> me
+Ask me anything <a href="https://github.com/mkdirlove/mishbtura/issues/new"><b>here</b></a><br>
+or <a href="mailto:orugamichelleangela@gmail.com"><b>email</b></a> me
 
 </div>
 <div align="center">
@@ -23,7 +23,7 @@ or <a href="mailto:sanbuenaventurajayson28@gmail.com"><b>email</b></a> me
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗦𝗛𝗢𝗪 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 & 𝗦𝗢𝗖𝗜𝗔𝗟</summary>
   <br>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mkdirlove&show_icons=true&theme=radical">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mishbtura&show_icons=true&theme=radical">
     <br>
 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
 
@@ -35,10 +35,8 @@ or <a href="mailto:sanbuenaventurajayson28@gmail.com"><b>email</b></a> me
 
 
 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔
-
-<a href="https://twitter.com/JaysonSanBuena1" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> &nbsp; 
-<a href="https://www.facebook.com/mkdirlove.git" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  
-<a href="sanbuenaventurajayson28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-sanbuenaventurajayson28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanbuenaventurajayson28@gmail.com" alt="Gmail"></a> <br>
+<a href="https://www.facebook.com/michelleangela.oruga.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  
+<a href="orugamichelleangela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-orugamichelleangela.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orugamichelleangela@gmail.com" alt="Gmail"></a> <br>
 
 
 ![VISITOR BADGE](https://visitor-badge.laobi.icu/badge?page_id=mkdirlove)
